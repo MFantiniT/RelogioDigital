@@ -1,0 +1,12 @@
+html {
+    background: black;
+}
+button {
+    margin-left: 35%;
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    color: rgb(243, 242, 241);
+    font-size: 50px;
+    align-items: center;
+}
